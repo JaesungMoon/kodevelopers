@@ -37,9 +37,35 @@ default valueの観点
 目次と話の目的を前に話す
 結論も簡単に言えれば良い
 
+프로젝트 검수...
 
-질문
-오픈지엘라이브러리 고생한거
-라이브러리 습득과정
-어노테이션 메타데이터 -> 펑션은 아니다
+ListViewEx
+/Users/MoonJaesung/Documents/git/android/ListViewEx 
+new Adapter
+new View
+
+cocos2d-x C++
+auto release counting
+
+be***_ty**
+/Users/MoonJaesung/Documents/work/behavior_type 
+CCBSceneTypeDescDetail::changeBehaviorType do while
+
+newが無いのか。。。
+
+sc*** me*** iOS
+/Users/MoonJaesung/Documents/work/ScheduleMethodForIOS 
+
+BookCollection.swift
+ - getAllBooks
+ getBooksReference()?.getDocuments{
+ TaskData.swift
+ repeat while
+var name: String {get}
+
+sc*** me***_android
+/Users/MoonJaesung/Documents/git/smartstudy-android 
+
+inputを減らす
+outputを固定
 

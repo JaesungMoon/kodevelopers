@@ -1,36 +1,3 @@
-프로젝트 검수...
-
-ListViewEx
-/Users/MoonJaesung/Documents/git/android/ListViewEx 
-new Adapter
-new View
-
-cocos2d-x C++
-auto release counting
-
-be***_ty**
-/Users/MoonJaesung/Documents/work/behavior_type 
-CCBSceneTypeDescDetail::changeBehaviorType do while
-
-newが無いのか。。。
-
-sc*** me*** iOS
-/Users/MoonJaesung/Documents/work/ScheduleMethodForIOS 
-
-BookCollection.swift
- - getAllBooks
- getBooksReference()?.getDocuments{
- TaskData.swift
- repeat while
-var name: String {get}
-
-sc*** me***_android
-/Users/MoonJaesung/Documents/git/smartstudy-android 
-
-inputを減らす
-outputを固定
-
-
 피드백
 
 설계질문도 해주셨는데 MVC라고 대답한거 같은데 사실 MVC도 결정적 고려 사항은 아닌거 같아요 얼마나 내가 consist하게 코딩할수 있는 구조인가 버그나 부작용고려가 적고 성능(컴파일/런타임)이 잘 나오는가를 생각합니다 
@@ -39,12 +6,9 @@ outputを固定
 
 일단 생각나는대로 적었는데 기억하고 있는 질문이나 피드백들은 따로 정리해서 주말중에 갱신할 계정입니다.
 
-
-
 success factor
 concor
 hybris
-
 
 어제도 준비하신분들 고생많으셨습니다. 피드백 내용 포함해서 ppt에 반영할게요 주말중에 할 계획입니다.
 어노테이션
@@ -52,3 +16,9 @@ hybris
 개발시 자주 사용하는 설계패턴
 리액티브를 사용하는가
 opengl사용시 발생한 장애경험이 있는가
+
+질문
+오픈지엘라이브러리 고생한거
+라이브러리 습득과정
+어노테이션 메타데이터 -> 펑션은 아니다
+
