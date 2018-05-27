@@ -1,0 +1,71 @@
+발표자료
+정적타입 시스템 vs 동적타입 시스템
+객체지향 패러다임 vs 함수형 패러다임
+
+side-effect
+side-cause
+
+
+# android
+
+```
+final 意識するようになった
+null 意識するようになった
+nullチェック書かなくて済むようにする
+パラダイム
+@Nullable
+@NonNull
+guard節を考えるようになった
+do whileを書く
+
+enumを書く
+
+defaultを考える
+関数型
+lambda
+generic
+
+default valueの観点
+```
+
+目次を追加しておく
+中間休みを入れる
+
+パラダイム
+（科学上の問題などについて）ある時代のものの見方・考え方を支配する認識の枠組み。
+
+目次と話の目的を前に話す
+結論も簡単に言えれば良い
+
+프로젝트 검수...
+
+ListViewEx
+/Users/MoonJaesung/Documents/git/android/ListViewEx 
+new Adapter
+new View
+
+cocos2d-x C++
+auto release counting
+
+be***_ty**
+/Users/MoonJaesung/Documents/work/behavior_type 
+CCBSceneTypeDescDetail::changeBehaviorType do while
+
+newが無いのか。。。
+
+sc*** me*** iOS
+/Users/MoonJaesung/Documents/work/ScheduleMethodForIOS 
+
+BookCollection.swift
+ - getAllBooks
+ getBooksReference()?.getDocuments{
+ TaskData.swift
+ repeat while
+var name: String {get}
+
+sc*** me***_android
+/Users/MoonJaesung/Documents/git/smartstudy-android 
+
+inputを減らす
+outputを固定
+

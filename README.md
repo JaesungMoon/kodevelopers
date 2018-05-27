@@ -1,17 +1,13 @@
-# kodevelopers
+# kodeveloper
 
-JavaProject
-이클립스를 깔기 애매해서 그냥 android studio로 만들었습니다. 극히 간단.. 리스트뷰까지만...
+kodeveloper presentation document
 
-cocos2d-x project
-cocoro
-behavior type
--> bitbucket private repository
+https://kodeveloper.com
 
-tool
-cocosbuilder
+201804
+https://kodeveloper.com/2018/04/19/struggle-20/
 
-swift
-sample
+https://docs.google.com/presentation/d/1oA9aHCWKqj7xyxV5N37qH59RV1Dj6TZooh_dsgNb-Bk/edit#slide=id.p
 
-
+모바일앱 개발에서의 폴리글랏 프로그래밍
+モバイルアプリ開発にてのポリグラットプログラミング
